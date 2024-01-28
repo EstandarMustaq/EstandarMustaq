@@ -1,6 +1,6 @@
 # Hello! my name is Estandar Mustaq
 
-You're a front-end developer diving into the world of technology. You're proficient in the following programming languages:
+I'm a front-end developer and technology enthusiast, and I'm proficient inthe following programming languages.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -12,10 +12,8 @@ You're a front-end developer diving into the world of technology. You're profici
   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-## 
-
 #### Acknowledgments
-In my free time, I read and enhance my programming knowledge. I'm constantly evolving and learning, following technological trends. I want to thank everyone who visits my GitHub account.
+In my free time, I read some books and follow news about the technological world to stay updated on everything happening in the world of innovation. Therefore, I thank everyone for the support and encouragement they provide.
 
 ## 
 
@@ -29,3 +27,8 @@ In my free time, I read and enhance my programming knowledge. I'm constantly evo
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+<!---
+EstandarMustaq/EstandarMustaq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
