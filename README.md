@@ -1,13 +1,31 @@
-- 👋 Hi, I’m @EstandarMustaq
-- 👀 I’m interested in full stack web programming but I'm also interested in computer science, software engineering 
-- 🌱 I’m currently learning in my free time I almost never have time to spend, I am constantly evolving 
-- 💞️ I’m looking to collaborate on CODLAB open source foundation, Blending creativity and excellence in code
-- 📫 How to reach me ...
-- EMAIL: estandarmustaque@hotmail.com
+# Hello! my name is Estandar Mustaq
 
-<!---
-EstandarMustaq/EstandarMustaq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+You're a front-end developer diving into the world of technology. You're proficient in the following programming languages:
 
-testing git commit on termux developer source 
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40"
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+
+## 
+
+#### Acknowledgments
+In my free time, I read and enhance my programming knowledge. I'm constantly evolving and learning, following technological trends. I want to thank everyone who visits my GitHub account.
+
+## 
+
+#### Social Media
+
+<div> 
+  <a href="https://m.youtube.com/channel/UCCJBxciHNdor7EvpjlTmJFQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="" target="_bank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+ <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="mailto:estandarmustaque@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
