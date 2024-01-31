@@ -15,8 +15,7 @@ I'm a front-end developer and technology enthusiast, and I'm proficient inthe fo
 #### Acknowledgments
 In my free time, I read some books and follow news about the technological world to stay updated on everything happening in the world of innovation. Therefore, I thank everyone for the support and encouragement they provide.
 
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=EstandarMustaq&show_icons=true&theme=gotham)
-
+![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=EstandarMustaq&show_icons=true&theme=gotham)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EstandarMustaq&show_icons=true)
 ## 
 
 #### Social Media
