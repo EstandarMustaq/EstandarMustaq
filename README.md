@@ -37,3 +37,8 @@ In my free time, I read some books and follow news about the technological world
 EstandarMustaq/EstandarMustaq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<a href="https://imgur.com/Xn3D6tn"><img align="right" width="45%" src="https://i.imgur.com/Xn3D6tn.jpg" title="source: imgur.com" /></a>
+<p align="center">
+  <img align="right" width="48%" src="https://github.com/EstandarMustaq/EstandarMustaq/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem" >
+</p>
