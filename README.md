@@ -19,11 +19,8 @@ world of innovation. Therefore, I thank everyone for the support and
 encouragement they provide.
 
 ## 
-<div style="align-item: center; display: flex;">
-![VariableBee GitHub
-stats](https://github-readme-stats.vercel.app/api?username=EstandarMustaq&show_icons=true&theme=gotham)
-</div>
-## 
+
+![VariableBee GitHubstats](https://github-readme-stats.vercel.app/api?username=EstandarMustaq&show_icons=true&theme=gotham)
 
 #### Social Media
 
@@ -37,7 +34,6 @@ stats](https://github-readme-stats.vercel.app/api?username=EstandarMustaq&show_i
   target="_blank"></a> 
 </div>
 
-## 
 <!---
 EstandarMustaq/EstandarMustaq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
