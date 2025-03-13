@@ -2,7 +2,7 @@
 
 Sou um desenvolvedor web e entusiasta de tecnologia, fascinado por ciência. Vejo o desenvolvimento de software como uma oportunidade de evoluir e construir um futuro sólido , aplicando minhas habilidades nas seguintes linguagens e ferramentas:
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="EstandarMustaq-nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
 
   <img align="center" alt="EstandarMustaq-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -38,7 +38,7 @@ Sou um desenvolvedor web e entusiasta de tecnologia, fascinado por ciência. Vej
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EstandarMustaq&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EstandarMustaq&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EstandarMustaq&theme=nord_dark) |
 | :----------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------: |
 
-<div align="center"><br>
+<div align="center">
 
   [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=EstandarMustaq&data=followers,repositories,stars,commits&theme=nautilus)](https://gitub.com/EstandarMustaq/)
   
