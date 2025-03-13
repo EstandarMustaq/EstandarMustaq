@@ -5,8 +5,6 @@ I am a web developer and technology enthusiast, fascinated by science. I see sof
 <div style="display: inline_block"><br>
   <img align="center" alt="EstandarMustaq-nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
 
-  <img align="center" alt="EstandarMustaq-python" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
   <img align="center" alt="EstandarMustaq-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
   <img align="center" alt="EstandarMustaq-react.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
