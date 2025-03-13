@@ -11,8 +11,6 @@ I am a web developer and technology enthusiast, fascinated by science. I see sof
 
   <img align="center" alt="EstandarMustaq-react.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
 
-<img align="center"valt="EstandarMustaq-mongodb" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" height="30" width="40">
-
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height="30" width="40"/>
 
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodemon/nodemon-plain.svg" height="30" width="40"/>
