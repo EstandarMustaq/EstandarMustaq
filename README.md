@@ -29,7 +29,7 @@ I am a web developer and technology enthusiast, fascinated by science. I see sof
 
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="30" width="40"/>
 
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="30" width="40"/>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" height="30" width="40"/>
 </div>
 ___
 
