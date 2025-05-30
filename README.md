@@ -1,6 +1,8 @@
-# Ola! O meu nome é Estandar Mustaq
+# Olá! Meu nome é Estandar Mustaq
 
-Sou um desenvolvedor web e entusiasta de tecnologia, fascinado por ciência. Vejo o desenvolvimento de software como uma oportunidade de evoluir e construir um futuro sólido , aplicando minhas habilidades nas seguintes linguagens e ferramentas:
+Sou um **open-source advocate** e desenvolvedor, sempre explorando **cutting-edge technologies**. Fascinado por ciência, vejo o desenvolvimento de software como uma **transformative opportunity** para aprender e construir um futuro sólido. Abraço novos paradigmas e ferramentas como chances de inovar e crescer.
+
+Abaixo, minhas principais linguagens e ferramentas:
 
 <div style="display: inline_block">
   <img align="center" alt="EstandarMustaq-nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
@@ -46,7 +48,7 @@ Sou um desenvolvedor web e entusiasta de tecnologia, fascinado por ciência. Vej
 
 #### Agradecimentos 
 
-Para me manter atualizado e à frente da curva, no meu tempo livre leio alguns livros e acompanho notícias sobre o mundo tecnológico, garantindo que estou atualizado com as últimas inovações. Então, obrigado a todos pelo apoio e incentivo.
+Para me **stay ahead of the curve**, no meu tempo livre faço um **deep dive into books** e acompanho notícias do mundo tecnológico, garantindo que estou sempre por dentro das **cutting‑edge innovations**. _Massive thanks_ a todos pelo apoio e incentivo!
 
 #### Social mídia
 
