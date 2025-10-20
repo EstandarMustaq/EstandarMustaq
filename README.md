@@ -52,13 +52,11 @@ Para me **stay ahead of the curve**, no meu tempo livre faço um **deep dive int
 
 #### Social mídia
 
-<div>
 [![X](https://img.shields.io/badge/X-%40mqlinux-black?logo=x)](https://x.com/mqlinux)
 [![Facebook](https://img.shields.io/badge/Facebook-EstandarMustaq-blue?logo=facebook)](https://www.facebook.com/share/1APNNPVwmV/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-EstandarMustaq-blue?logo=linkedin)](https://linkedin.com/in/estandamustaq)
 [![Email](https://img.shields.io/badge/Email-mustaqueestandarjunior%40email.com-red?logo=gmail)](mailto:mustaqueestandarjunior@email.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Contato-25D366?logo=whatsapp)](https://wa.me/258874588177)
-</div>
 
 <!---
 EstandarMustaq/EstandarMustaq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
