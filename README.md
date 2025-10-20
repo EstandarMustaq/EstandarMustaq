@@ -1,4 +1,4 @@
-# Olá! Meu nome é Estandar Mustaq
+# Hi! My name is Estandar Mustaq
 
 Sou um **open-source advocate** e desenvolvedor, sempre explorando **cutting-edge technologies**. Fascinado por ciência, vejo o desenvolvimento de software como uma **transformative opportunity** para aprender e construir um futuro sólido. Abraço novos paradigmas e ferramentas como chances de inovar e crescer.
 
@@ -53,12 +53,11 @@ Para me **stay ahead of the curve**, no meu tempo livre faço um **deep dive int
 #### Social mídia
 
 <div>
-  <a href="mailto:mustaqueestandarjunior@gmail.com"><img src="https://img.shields.io/badge/gmail-0078D4?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://api.whatsapp.com/send?phone=258874588177" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-   <a href="https://www.facebook.com/juniorestandar.mustaque"
-  target="_blank"><img
-  src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
-  target="_blank"></a> 
+[![X](https://img.shields.io/badge/X-%40mqlinux-black?logo=x)](https://x.com/mqlinux)
+[![Facebook](https://img.shields.io/badge/Facebook-EstandarMustaq-blue?logo=facebook)](https://www.facebook.com/share/1APNNPVwmV/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-EstandarMustaq-blue?logo=linkedin)](https://linkedin.com/in/estandamustaq)
+[![Email](https://img.shields.io/badge/Email-mustaqueestandarjunior%40email.com-red?logo=gmail)](mailto:mustaqueestandarjunior@email.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contato-25D366?logo=whatsapp)](https://wa.me/258874588177)
 </div>
 
 <!---
