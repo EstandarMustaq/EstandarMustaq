@@ -1,22 +1,50 @@
-# Hi! My name is Estandar Mustaq
+# EstandarMustaq
 
-I'm an open-source developer, always exploring cutting-edge technologies. Fascinated by science, I see software development as a transformative opportunity to learn and build a solid future. I embrace new paradigms and tools as opportunities to innovate and grow. To stay ahead of the curve, in my free time I delve into books and follow technology news, ensuring I'm always up to date with cutting-edge innovations.
+**Backend & Platform Engineer** based in Maputo, Mozambique.
 
-<br>
+I build financial infrastructure, distributed backend systems and open-source
+software. My work focuses on explicit domain contracts, reliable event-driven
+flows and infrastructure that remains predictable from local development to
+production.
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EstandarMustaq&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=EstandarMustaq&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
-| :--------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+## Currently building
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EstandarMustaq&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EstandarMustaq&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EstandarMustaq&theme=nord_dark) |
-| :----------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------: |
+### [MAVULA](https://github.com/mavulahq)
 
-<div align="center">
+Open-core financial infrastructure for institutions that need ledger, lending,
+payments, workflow automation and operational controls. I work across the
+[finance platform](https://github.com/mavulahq/finance-platform),
+[ledger core](https://github.com/mavulahq/ledger-core),
+[workbench](https://github.com/mavulahq/workbench) and
+[operations](https://github.com/mavulahq/operations).
 
-  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=EstandarMustaq&data=followers,repositories,stars,commits&theme=nautilus)](https://gitub.com/EstandarMustaq/)
-  
-</div>
+### [Ponte Segura](https://github.com/EstandarMustaq/Lae23)
 
-<!---
-EstandarMustaq/EstandarMustaq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+A federated community platform for flood-response coordination, built with
+NestJS, PostgreSQL, typed domain events and transactional outbox/inbox delivery
+between independent nodes.
+
+### [Aurora News](https://github.com/EstandarMustaq/aurora)
+
+A content management system for publishing and managing news, with a REST API
+and an editorial web application.
+
+## Technical focus
+
+`TypeScript` · `Node.js` · `NestJS` · `PostgreSQL` · `Redis` · `Docker` ·
+`Kubernetes` · `Terraform`
+
+- Backend architecture and versioned domain contracts
+- Transactional outbox/inbox, idempotency and durable workflows
+- Containerized development, deployment automation and observability
+
+## Selected experiment
+
+[Vortexa IA](https://github.com/EstandarMustaq/vortexa.ia) explores AI-assisted
+experiences with Next.js, React and the Groq API.
+
+## Open-source collaboration
+
+I welcome technical discussions and contributions around financial systems,
+distributed backends and developer infrastructure. Explore the repositories
+above or join the [MAVULA discussions](https://github.com/orgs/mavulahq/discussions).
